@@ -1,0 +1,41 @@
+*.aux
+*.glo
+*.idx
+*.log
+*.toc
+*.ist
+*.acn
+*.acr
+*.alg
+*.bbl
+*.blg
+*.dvi
+*.glg
+*.gls
+*.ilg
+*.ind
+*.lof
+*.lot
+*.maf
+*.mtc
+*.mtc1
+*.out
+*.synctex.gz
+*.Rhistory
+*.Rdata
+*.png
+*.pyc
+
+## You can uncomment the followings to ignore the pdf or eps output
+#*.pdf
+#*.eps
+
+## Uncomment the following to keep .dat file as a common output format and ignore it
+#*.dat
+
+# For mac based systems
+# Ignore Mac DS_Store files
+.DS_Store
+
+#ignore ipython notebok checkpoints
+.ipynb_checkpoints/
