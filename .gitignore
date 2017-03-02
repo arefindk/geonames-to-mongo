@@ -39,3 +39,5 @@
 
 #ignore ipython notebok checkpoints
 .ipynb_checkpoints/
+
+allCountries.txt
